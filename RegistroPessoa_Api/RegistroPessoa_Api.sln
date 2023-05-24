@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroPessoa.Domain", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroPessoa.Persistence", "..\RegistroPessoa.Persistence\RegistroPessoa.Persistence.csproj", "{F3EE7E0C-0936-4573-A3CE-9EBF7C250620}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroPessoa.Test", "..\RegistroPessoa.Test\RegistroPessoa.Test.csproj", "{8F648A79-F23D-43CA-907A-7BE7A75C045D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F3EE7E0C-0936-4573-A3CE-9EBF7C250620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3EE7E0C-0936-4573-A3CE-9EBF7C250620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3EE7E0C-0936-4573-A3CE-9EBF7C250620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F648A79-F23D-43CA-907A-7BE7A75C045D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F648A79-F23D-43CA-907A-7BE7A75C045D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F648A79-F23D-43CA-907A-7BE7A75C045D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F648A79-F23D-43CA-907A-7BE7A75C045D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
